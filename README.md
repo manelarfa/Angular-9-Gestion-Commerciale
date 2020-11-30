@@ -1,3 +1,6 @@
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
 # EStock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
